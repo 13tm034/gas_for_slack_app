@@ -1,3 +1,5 @@
+// hogehogehogehogehogehogehogehogehogehoge
+
 function cleanChannels() 
 {
   var sheet = SpreadsheetApp.openById("1kp23Zr2Aq4hZC-mxx4rYMvOVafPoi2JETV9Ub_u1ujo");
